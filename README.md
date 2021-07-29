@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Berkay!
 
-Şu anda aktif olarak stajımı sürdürürken, aynı zamanda Teknofest için bulunduğum projeyi geliştiriyorum. Bunlarla birlikte, Bilgisayar Mühendisliği bölümünde 1.sınıf olarak
+Şu anda aktif olarak stajımı sürdürürken, aynı zamanda kendi projelerimi geliştiriyorum. Bunlarla birlikte, Bilgisayar Mühendisliği bölümünde 1.sınıf olarak
 öğrenim görürken kendi kendime de hayat boyu öğrenmeler yapıyorum. Girişimcilik ruhu üzerinde konuşursak, üretime sunulmaya aday birçok girişim sahibiyim ve gün geçtikçe
 girişim tasarlıyorum. Bu girişimlerimi üretime geçirebilmem için tabiki de yatırım tekliflerine açığım. Hakkımda daha detaylı bilgiler için [LinkedIn Profilimi](https://www.linkedin.com/in/berkay-gebes/) ziyaret edebilirsiniz.
 
