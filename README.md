@@ -1,12 +1,11 @@
-# 👋 Merhaba, Ben Berkay!
+# 👋 Hello, I'm Berkay!
 
-Şu anda aktif olarak stajımı sürdürürken, aynı zamanda kendi projelerimi geliştiriyorum. Bunlarla birlikte, Bilgisayar Mühendisliği bölümünde 1.sınıf olarak
-öğrenim görürken kendi kendime de hayat boyu öğrenmeler yapıyorum. Girişimcilik ruhu üzerinde konuşursak, üretime sunulmaya aday birçok girişim sahibiyim ve gün geçtikçe
-girişim tasarlıyorum. Bu girişimlerimi üretime geçirebilmem için tabiki de yatırım tekliflerine açığım. Hakkımda daha detaylı bilgiler için [LinkedIn Profilimi](https://www.linkedin.com/in/berkay-gebes/) ziyaret edebilirsiniz.
+Currently, I am actively developing my own projects while continuing my internship. In addition to these, as a 2nd year in Computer Engineering department
+While I am studying, I also do lifelong learning for myself. If we talk about the entrepreneurial spirit, I have many startups as candidates and ideas to be submitted to production. Of course, I am open to investment offers so that I can put these initiatives into production. For more detailed information about me, you can visit [My LinkedIn Profile](https://www.linkedin.com/in/berkay-gebes/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgebes&label=Views&color=blue&style=plastic" alt="bgebes" /> </p>
 
-[![Berkay github bilgileri](https://github-readme-stats.vercel.app/api?username=bgebes&show_icons=true)](https://github.com/bgebes)
+[![Berkay github info](https://github-readme-stats.vercel.app/api?username=bgebes&show_icons=true)](https://github.com/bgebes)
 
 <a href="https://github.com/bgebes?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgebes&theme=light&hide_langs_below=1" />
