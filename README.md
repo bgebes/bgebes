@@ -6,7 +6,3 @@ While I am studying, I also do lifelong learning for myself. If we talk about th
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgebes&label=Views&color=blue&style=plastic" alt="bgebes" /> </p>
 
 [![Berkay github info](https://github-readme-stats.vercel.app/api?username=bgebes&show_icons=true)](https://github.com/bgebes)
-
-<a href="https://github.com/bgebes?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgebes&theme=light&hide_langs_below=1" />
-</a>
