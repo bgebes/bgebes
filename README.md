@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/72809874/224037930-e23961bd-6a70-433e-8b9b-900d0b055326.gif" width="100%" height="500" />
+<img src="https://user-images.githubusercontent.com/72809874/224037930-e23961bd-6a70-433e-8b9b-900d0b055326.gif" width="100%" height="400" />
 
 ## 👋 &nbsp;Hey there! I'm Berkay
 
