@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore **new technologies** and develop **software solutions**.\
-🎓 &nbsp;I'm currently studying Computer Science at the **Ondokuz Mayis University**.\
+🎓 &nbsp;I'm currently studying Computer Engineering at the **Ondokuz Mayis University**.\
 🌱 &nbsp;I'm on track for learning and developing more about **Front End Development**.\
 ✍️ &nbsp;In my free time, I pursue **Chatbot Development**, **Graphic Design** and helping others **solve their mistakes** as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for a **free consultation** and **volunteering**, or simply for an **interesting discussion**.\
