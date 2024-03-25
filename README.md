@@ -6,11 +6,9 @@
 
 💡 &nbsp;I like to explore **new technologies** and develop **software solutions**.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the **Ondokuz Mayis University**.\
-🌱 &nbsp;I'm on track for learning and developing more about **Front End Development**.\
+🌱 &nbsp;I'm on track for learning and developing more about **Full Stack Development**.\
 ✍️ &nbsp;In my free time, I pursue **Chatbot Development**, **Graphic Design** and helping others **solve their mistakes** as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for a **free consultation** and **volunteering**, or simply for an **interesting discussion**.\
-✉️ &nbsp;You can send me an email at berkay.gebes@bil.omu.edu.tr! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/bgebes/bgebes/files/10932301/CV_Berkay_Gebes.pdf) for **more details** about me. I'm open to feedback and suggestions!
 
 <img alt="Wanted Developer" src="https://user-images.githubusercontent.com/72809874/224049823-c81febab-8dbf-4d9f-bd9c-1299c15c023b.gif" width="400" align="right"/>
 
