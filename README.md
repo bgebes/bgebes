@@ -1,12 +1,5 @@
 <div align="center">
 
-<img
-    src="https://avatars.githubusercontent.com/u/72809874?v=4"
-    height="128px"
-    width="128x"
-    style="border-radius: 50%;"
-    />
-
 **Berkay Gebeş,** Software Engineer
 
 [Send Mail](mailto:berkay.gebes@bil.omu.edu.tr) | [Visit LinkedIn](https://linkedin.com/in/berkay-gebes)
