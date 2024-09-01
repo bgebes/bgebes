@@ -1,11 +1,3 @@
-<div align="center">
-
-**Berkay Gebeş,** Software Engineer
-
-[Send Mail](mailto:berkay.gebes@bil.omu.edu.tr) | [Visit LinkedIn](https://linkedin.com/in/berkay-gebes)
-
-</div>
-  
 ### Overview
 
 I am a recent graduate in Computer Engineering at Ondokuz Mayis University,
@@ -42,3 +34,10 @@ career within technology-driven industries.
 - **Native:** Turkish</li>
 - **Professional Working Proficiency:** English</li>
 - **Basic Knowledge:** German, Russian</li>
+
+---
+<div align="center">
+  
+[Send Mail](mailto:berkay.gebes@bil.omu.edu.tr) | [Visit LinkedIn](https://linkedin.com/in/berkay-gebes)
+
+</div>
